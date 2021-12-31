@@ -13,7 +13,7 @@ First is a pdf merger whereby users can choose a folder and all the pdfs within 
 
 
 
-## Running the script
+## Running the script <a name="introduction"></a>
 ------------------
 The popup appears for the user to choose the next action: merging pdf files or getting file sizes of all files in a path
 
