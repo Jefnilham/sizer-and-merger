@@ -1,8 +1,8 @@
 # sizer-and-merger
 combining the functionality of previous 2 projects in an interactive popup
 
-Running the script
------------------
+**Running the script**
+
 ![image](https://user-images.githubusercontent.com/39832806/147831141-0bc4fa3b-283f-4762-aa30-81090ace7546.png)
 
 
