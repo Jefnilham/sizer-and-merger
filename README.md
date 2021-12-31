@@ -23,7 +23,7 @@ The user will then name the output pdf merged file:
 
 ![image](https://user-images.githubusercontent.com/39832806/147831515-84b53b51-4939-4625-8deb-2512b75b7f33.png)
 
-THe user will confirm the chosen folder with displayed pdf contents:
+The user will confirm the chosen folder with displayed pdf contents:
 
 ![image](https://user-images.githubusercontent.com/39832806/147831383-e7c430b0-f28b-4950-b871-48e1a1479035.png)
 
