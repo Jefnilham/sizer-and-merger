@@ -3,7 +3,11 @@ Combining the functionality of previous 2 projects in an interactive popup. Firs
 
 ![image](https://user-images.githubusercontent.com/39832806/147831109-dee9c5fa-a4f8-4c2e-95eb-e1c6b21fd100.png)
 
-
+# Table of Contents
+1. [Example](#example)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 
 
