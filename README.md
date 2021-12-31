@@ -13,7 +13,7 @@ First is a pdf merger whereby users can choose a folder and all the pdfs within 
 
 
 
-# Running the script
+## Running the script
 ------------------
 The popup appears for the user to choose the next action: merging pdf files or getting file sizes of all files in a path
 
@@ -23,7 +23,7 @@ The popup appears for the user to choose the next action: merging pdf files or g
 
 
 
-# Pdf merger:
+## Pdf Merger:
 ------------------
 If the user clicks on pdf merger, the next popup will show:
 
@@ -51,7 +51,7 @@ Upon successful merger, a popup will notify the user:
 
 
 
-# File Sizer:
+## File Sizer:
 -----------------
 
 If the user clicks on the file sizer, the another popup will appear to prompt the user on what folder to enumerate:
