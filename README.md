@@ -57,3 +57,6 @@ When the user clicks on browse, the file explorer opens for the user to choose t
 
 ![image](https://user-images.githubusercontent.com/39832806/147831852-da15a8fc-9d7a-44c7-a180-4e73829d9fcd.png)
 
+The user then names his desired output file. The output is a text file in a report format with headers of file size in KB followed by full filepath. This report is arranged in descending order of file size, largest file being at the top. I desinged it this way so that I can easily see what files are taking up the most space and if they are up for deletion.
+
+![image](https://user-images.githubusercontent.com/39832806/147831921-95943f4b-5268-4a3f-a88f-9da293e4e0b5.png)
