@@ -15,11 +15,11 @@ If the user clicks on pdf merger, the next popup will show:
 
 ![image](https://user-images.githubusercontent.com/39832806/147831248-480f1b21-e1b8-458e-b1e8-f16f30b34a97.png)
 
-THe user can then click on browse to open a file explorer and choose a folder with contents of pdf files to merge:
+THe user can then click on browse to open a file explorer and choose a folder with contents of pdf files to merge. We will choose this folder for demonstration:
 
 ![image](https://user-images.githubusercontent.com/39832806/147831343-e1af73e1-8465-4c09-86f5-4a7ac6238537.png)
 
-The user will then name the output pdf merged file:
+The user will then name the output pdf merged file. We will name this output file for demonstration:
 
 THe user will confirm the chosen folder with displayed pdf contents:
 
