@@ -1,5 +1,5 @@
 # sizer-and-merger
-Combining the functionality of previous 2 projects in an interactive popup. I have a pre-made folder named 'C:\walktest' for demonstration purposes. The folder hierarchy is as follows:
+Combining the functionality of previous 2 projects in an interactive popup. First is a pdf merger whereby users can choose a folder and all the pdfs within it will be appended according to the listing as listed in the file explorer. Second is a file sizer that enumerates recursively the folder chosen to list out all files in descending order of file size, to help with file management/deletion. I have a pre-made folder named 'C:\walktest' for demonstration purposes. The folder hierarchy is as follows:
 
 ![image](https://user-images.githubusercontent.com/39832806/147831109-dee9c5fa-a4f8-4c2e-95eb-e1c6b21fd100.png)
 
@@ -11,7 +11,7 @@ Running the script
 ------------------
 The popup appears for the user to choose the next action: merging pdf files or getting file sizes of all files in a path
 
-![image](https://user-images.githubusercontent.com/39832806/147831141-0bc4fa3b-283f-4762-aa30-81090ace7546.png)
+![image](https://user-images.githubusercontent.com/39832806/147831788-7bbf2aea-981d-44fa-afef-e33198c1d7fc.png)
 
 
 
@@ -48,5 +48,11 @@ Upon successful merger, a popup will notify the user:
 Sizer:
 -----------------
 
-tree
+If the user clicks on the file sizer, the another popup will appear to prompt the user on what folder to enumerate:
+
+![image](https://user-images.githubusercontent.com/39832806/147831801-4945da81-280e-4999-8dfa-17fbbaf2917d.png)
+
+
+
+
 
