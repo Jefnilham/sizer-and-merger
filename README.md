@@ -65,7 +65,7 @@ Upon successful report creation, a popup will notify the user accordingly:
 
 ![image](https://user-images.githubusercontent.com/39832806/147831964-f26bea01-8ddf-4ddc-8157-0c5bcd60eaad.png)
 
-The file output is as follows, and is correctly created:
+The file output is as follows, and is correctly created. We can also see that our previously created 'merger_demo.pdf' has also been accounted for:
 
 ![image](https://user-images.githubusercontent.com/39832806/147831988-d16c12ff-ab25-47be-b640-0294d528b63f.png)
 
