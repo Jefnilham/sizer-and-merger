@@ -1,5 +1,5 @@
 # sizer-and-merger
-Combining the functionality of previous 2 projects in an interactive popup. I have a pre-made folder named 'C:\walktest'.
+Combining the functionality of previous 2 projects in an interactive popup. I have a pre-made folder named 'C:\walktest' for demonstration purposes.
 
 
 
@@ -15,11 +15,11 @@ If the user clicks on pdf merger, the next popup will show:
 
 ![image](https://user-images.githubusercontent.com/39832806/147831248-480f1b21-e1b8-458e-b1e8-f16f30b34a97.png)
 
-THe user can then click on browse to open a file explorer and choose a folder with contents of pdf files to merge. We will choose this folder for demonstration:
+THe user can then click on browse to open a file explorer and choose a folder with contents of pdf files to merge:
 
 ![image](https://user-images.githubusercontent.com/39832806/147831507-bdb7a30f-bbd0-4930-9ab6-6259b567af92.png)
 
-The user will then name the output pdf merged file. We will name this output file for demonstration:
+The user will then name the output pdf merged file:
 
 ![image](https://user-images.githubusercontent.com/39832806/147831515-84b53b51-4939-4625-8deb-2512b75b7f33.png)
 
