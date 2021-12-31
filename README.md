@@ -4,14 +4,14 @@ Combining the functionality of previous 2 projects in an interactive popup. Firs
 ![image](https://user-images.githubusercontent.com/39832806/147831109-dee9c5fa-a4f8-4c2e-95eb-e1c6b21fd100.png)
 
 # Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+1. [Running the script](# Running the script)
+2. [Pdf merger](# Pdf merger)
+3. [File Sizer](# File Sizer)
 
 
 
-Running the script
+
+# Running the script
 ------------------
 The popup appears for the user to choose the next action: merging pdf files or getting file sizes of all files in a path
 
@@ -21,7 +21,7 @@ The popup appears for the user to choose the next action: merging pdf files or g
 
 
 
-Pdf merger:
+# Pdf merger:
 ------------------
 If the user clicks on pdf merger, the next popup will show:
 
@@ -49,7 +49,7 @@ Upon successful merger, a popup will notify the user:
 
 
 
-Sizer:
+# File Sizer:
 -----------------
 
 If the user clicks on the file sizer, the another popup will appear to prompt the user on what folder to enumerate:
