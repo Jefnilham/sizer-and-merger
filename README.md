@@ -53,6 +53,7 @@ If the user clicks on the file sizer, the another popup will appear to prompt th
 ![image](https://user-images.githubusercontent.com/39832806/147831801-4945da81-280e-4999-8dfa-17fbbaf2917d.png)
 
 
+When the user clicks on browse, the file explorer opens for the user to choose the desired folder:
 
-
+![image](https://user-images.githubusercontent.com/39832806/147831852-da15a8fc-9d7a-44c7-a180-4e73829d9fcd.png)
 
