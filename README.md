@@ -1,12 +1,11 @@
 # sizer-and-merger
-
 Combining the functionality of previous 2 projects in an interactive popup. I have a pre-made folder named 'C:\walktest'.
+
+
 
 Running the script
 ------------------
-
-The popup appears for the user to choose the next action: merging pdf files or getting file sizes of all files in a path:
-
+The popup appears for the user to choose the next action: merging pdf files or getting file sizes of all files in a path:\n
 ![image](https://user-images.githubusercontent.com/39832806/147831141-0bc4fa3b-283f-4762-aa30-81090ace7546.png)
 
 Pdf merger:
