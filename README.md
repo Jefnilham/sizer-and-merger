@@ -6,9 +6,9 @@ First is a pdf merger whereby users can choose a folder and all the pdfs within 
 ![image](https://user-images.githubusercontent.com/39832806/147831109-dee9c5fa-a4f8-4c2e-95eb-e1c6b21fd100.png)
 
 # Table of Contents
-1. [Running the script](# Running the script)
-2. [Pdf merger](# Pdf merger)
-3. [File Sizer](# File Sizer)
+1. [Running the script](#Running the script)
+2. [Pdf merger](#Pdf merger)
+3. [File Sizer](#File Sizer)
 
 
 
