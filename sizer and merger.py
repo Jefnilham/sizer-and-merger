@@ -31,7 +31,7 @@ event, values = sg.Window('Choose Action',
                           [[sg.Text('Select what you want to do:')], 
                            #[sg.Input(), sg.FolderBrowse()], 
                            #[sg.Text('Filename of output:')],
-                           [sg.Button('Pdf Merger')], [sg.Button('File Enumerator')],
+                           [sg.Button('Pdf Merger')], [sg.Button('File Sizer')],
                            #[sg.Input()],
                            #[sg.OK(), sg.Cancel()] 
                            ]).read(close=True)
@@ -95,9 +95,9 @@ if event == 'Pdf Merger':
 if user clicks on file enumerator
 '''
 
-if event == 'File Enumerator':
-    window = sg.Window('File Enumerator')
-    event, values = sg.Window('File Enumerator', 
+if event == 'File Sizer':
+    window = sg.Window('File Sizer')
+    event, values = sg.Window('File Sizer', 
                               [[sg.Text('Select folder to enumerate all files within:')], 
                                [sg.Input(), sg.FolderBrowse()], 
                                [sg.Text('Filename of the file size list output:')],
