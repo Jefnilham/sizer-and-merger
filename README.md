@@ -1,5 +1,7 @@
 # sizer-and-merger
-Combining the functionality of previous 2 projects in an interactive popup. First is a pdf merger whereby users can choose a folder and all the pdfs within it will be appended according to the listing as listed in the file explorer. Second is a file sizer that enumerates recursively the folder chosen to list out all files in descending order of file size, to help with file management/deletion. I have a pre-made folder named 'C:\walktest' for demonstration purposes. The folder hierarchy is as follows:
+Combining the functionality of previous 2 projects in an interactive popup. 
+
+First is a pdf merger whereby users can choose a folder and all the pdfs within it will be appended according to the listing as listed in the file explorer. Second is a file sizer that enumerates recursively the folder chosen to list out all files in descending order of file size, to help with file management/deletion. I have a pre-made folder named 'C:\walktest' for demonstration purposes. The folder hierarchy is as follows:
 
 ![image](https://user-images.githubusercontent.com/39832806/147831109-dee9c5fa-a4f8-4c2e-95eb-e1c6b21fd100.png)
 
