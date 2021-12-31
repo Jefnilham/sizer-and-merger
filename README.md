@@ -80,3 +80,7 @@ The file output is as follows, and is correctly created. We can also see that ou
 ![image](https://user-images.githubusercontent.com/39832806/147831988-d16c12ff-ab25-47be-b640-0294d528b63f.png)
 
 
+
+Notes:
+
+Seems like this cannot successfully enumerate the whole C drive. And even if it manages to, the txt file is very large and will freeze the pc. Need alternative 
