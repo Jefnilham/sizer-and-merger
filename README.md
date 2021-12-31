@@ -5,35 +5,31 @@ First is a pdf merger whereby users can choose a folder and all the pdfs within 
 
 ![image](https://user-images.githubusercontent.com/39832806/147831109-dee9c5fa-a4f8-4c2e-95eb-e1c6b21fd100.png)
 
+
+
+
+
 # Table of contents
 1. [Running the script](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+2. [Pdf Merger](#paragraph1)
+3. [File Sizer](#paragraph2)
+
+
+
+
 
 ## Running the script <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
-
 The popup appears for the user to choose the next action: merging pdf files or getting file sizes of all files in a path
 
 ![image](https://user-images.githubusercontent.com/39832806/147831788-7bbf2aea-981d-44fa-afef-e33198c1d7fc.png)
 
 
 
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
-
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
 
 
 
 
-## Pdf Merger:
-------------------
+## Pdf Merger <a name="paragraph1"></a>
 If the user clicks on pdf merger, the next popup will show:
 
 ![image](https://user-images.githubusercontent.com/39832806/147831248-480f1b21-e1b8-458e-b1e8-f16f30b34a97.png)
@@ -60,8 +56,7 @@ Upon successful merger, a popup will notify the user:
 
 
 
-## File Sizer:
------------------
+## File Sizer <a name="paragraph2"></a>
 
 If the user clicks on the file sizer, the another popup will appear to prompt the user on what folder to enumerate:
 
