@@ -13,6 +13,7 @@ First is a pdf merger whereby users can choose a folder and all the pdfs within 
 1. [Running the script](#introduction)
 2. [Pdf Merger](#paragraph1)
 3. [File Sizer](#paragraph2)
+4. [Issues](#paragraph3)
 
 
 
@@ -81,6 +82,6 @@ The file output is as follows, and is correctly created. We can also see that ou
 
 
 
-Notes:
+## Issues pending to fix
 
-Seems like this cannot successfully enumerate the whole C drive. And even if it manages to, the txt file is very large and will freeze the pc. Need alternative 
+Seems like this cannot successfully enumerate the whole C drive. And even if it manages to, the txt file is very large and will freeze the pc. hmm. should be due to enumerating over too many files and failing. However python error output suggests that its just due to formatting error from not setting utf-8 format. hmm.
