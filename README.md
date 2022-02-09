@@ -80,6 +80,13 @@ The file output is as follows, and is correctly created. We can also see that ou
 
 ![image](https://user-images.githubusercontent.com/39832806/147831988-d16c12ff-ab25-47be-b640-0294d528b63f.png)
 
+## Added new 'tree command with size.py'
+-More similar to replicating the 'tree /f' windows command 
+-Added file sizes alongside so can view
+
+![image](https://user-images.githubusercontent.com/39832806/153186512-ad0ca38e-6eb9-4ed3-a0b2-23ff95d260fb.png)
+-Issue: Don't think can sort by file size since os.walk sets up a tuple with strings and lists. Hmm. Thinking
+
 
 
 ## Issues pending to fix
