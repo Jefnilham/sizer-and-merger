@@ -7,8 +7,9 @@ Created on Wed Feb  9 11:36:18 2022
 
 import os
 from os.path import getsize
-
-for root, dirs, files in os.walk(r""):
+dir_name = input("Enter full path to sort by file size: ")
+print()
+for root, dirs, files in os.walk(dir_name):
     offset = len(root.split(os.path.sep))
     print("    " * (offset - 1), root, sep="|––––")
     
