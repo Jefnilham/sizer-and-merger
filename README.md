@@ -82,6 +82,7 @@ The file output is as follows, and is correctly created. We can also see that ou
 
 ## Added new 'tree command with size.py'
 -More similar to replicating the 'tree /f' windows command 
+
 -Added file sizes alongside so can view
 
 ![image](https://user-images.githubusercontent.com/39832806/153186512-ad0ca38e-6eb9-4ed3-a0b2-23ff95d260fb.png)
